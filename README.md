@@ -19,9 +19,9 @@ This project investigates the barriers to AI adoption—focusing on the skills g
 “What are the barriers to AI adoption in SaaS product management, and how can organizations overcome them?”
 
 ##  Methodology
-- Survey (n=70)
-- Regression & Conjoint
-- Focus groups
+- Conducted Survey with participant around 70 (n=70)
+- Used survey data and performed Regression & Conjoint Analysis
+- Focus groups discussion with industry experts, engineers, product owners
 
 ##  Key Findings
 - Skills gap (67%) outpaces privacy (33%)
@@ -39,7 +39,7 @@ Python (pandas, scikit-learn), Jupyter, Excel/Power BI, Markdown/PPT.
 
 ##  Future Work
 - Multi-region study
-- Apply playbook in a real SaaS (e.g., SAP CX)
+- Apply playbook in a real SaaS
 - Add GenAI adoption patterns
 
 ## Acknowledgements
